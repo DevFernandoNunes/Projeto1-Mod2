@@ -19,7 +19,7 @@
 
 - [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
 
-- [Desenvolvedores](#desenvolvedores)
+- [Desenvolvedor](#desenvolvedor)
 
 ## Descrição do projeto 
 
@@ -54,20 +54,20 @@ Antes de começar você vai precisar ter instalado em sua máquina as seguintes 
 [Git](https://git-scm.com/), [NodeJS](https://nodejs.org/en/).
 Além disto é bom ter um editor para trabahar com o código como [VScode](https://code.visualstudio.com/).
 
-Está tudo pronto agora... é só baixar o arquivo e executar. Você pode [acessar o código fonte do projeto](https://github.com/DevFernandoNunes/BlueEdtech/tree/main/Mod2/Projeto1)
+Está tudo pronto agora... é só baixar o arquivo e executar. Você pode [acessar o código fonte do projeto](https://github.com/DevFernandoNunes/Projeto1-Mod2)
 
 ## Abrir e rodar o projeto
 
 ```bash
  
 #Clone este repositório
-$ git clone <https://github.com/DevFernandoNunes/BlueEdtech.git>
+$ git clone <https://github.com/DevFernandoNunes/Projeto1-Mod2.git>
 
 #Abra o arquivo index.html que está na raiz da pasta principal do projeto após clonar o repositório.
  
 ``` 
  
-## Desenvolvedores
+## Desenvolvedor
 
 | [<img src="https://avatars.githubusercontent.com/u/95880342?v=4" width=115><br><sub>Fernando Nunes</sub>](https://github.com/DevFernandoNunes) |
 | :---: |
